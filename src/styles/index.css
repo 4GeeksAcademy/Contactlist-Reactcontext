@@ -1,3 +1,11 @@
+.custom-link {
+    color: #fb0000; /* Cambia el color de texto a tu preferencia */
+    text-decoration: none; /* Elimina la subrayado de los enlaces */
+}
+
+.custom-link:hover {
+    color: #a50e0e; 
+}
 /* 
     General Styles
 */
